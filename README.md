@@ -1,6 +1,4 @@
 <h1 align="center">Hi welcome to my profile 👋💫</h1>
-<h3 align="center">I'm an aspiring data analyst passionate about learning and growing my skills in data analysis and visualization.</h3>
-
 - 🌱 I’m currently learning **SQL, Spreadsheet (Google Sheets, Excel), Python, Looker Studio, Power BI**
 
 <h3 align="left">Connect with me:</h3>
